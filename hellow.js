@@ -6,6 +6,6 @@
     return '5';
  }
  const c =()=>{
-   console.log("ccc");
+   console.log("function c");
    
  }
